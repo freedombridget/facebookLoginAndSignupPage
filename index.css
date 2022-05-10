@@ -1,0 +1,97 @@
+body {
+  background-color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
+.header,
+.container {
+  background-color: #3b5998;
+}
+.facebookText {
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}
+
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aliceblue;
+  position: relative;
+  left: 1200px;
+  font-size: medium;
+}
+h5 {
+  position: relative;
+  left: 190px;
+}
+
+.facebookText {
+  font-size: 30px;
+  position: relative;
+  left: 80px;
+  top: 50px;
+}
+
+.loginTextButton {
+  position: relative;
+  left: 20px;
+  top: 10px;
+  color: whitesmoke;
+  background-color: #3b5998;
+  width: 100px;
+  border: none;
+  box-shadow: -1px 1px 4px 1px #7096e4;
+  padding: 5px;
+}
+
+.content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #3b5998;
+  position: relative;
+  left: 80px;
+}
+
+h3{
+  font-size: large;
+}
+h2{
+  font-size: xx-large;
+}
+
+.main-content {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  left: 1200px;
+}
+
+.firstname,
+.surname,
+.email,
+.re-enter,
+.newPassword {
+  height: 30px;
+}
+
+.email,
+.re-enter,
+.newPassword {
+  width: 350px;
+}
+
+h6 {
+  position: relative;
+  color: #1355e2;
+}
+span {
+  color: #1354df;
+}
+
+.create-account {
+  background-color: rgb(114, 204, 114);
+  color: white;
+  height: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman";
+  border-radius: 8px;
+  font-size: large;
+  border: none;
+}
